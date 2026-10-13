@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Personal Recipe Finder",
+    "version": "1.0",
+    "description":"AI powered Recipe Finder",
+     "permissions": [
+    "ai"
+  ],
+  "actions":"popup.html"
+
+}
+        
